@@ -1,6 +1,4 @@
-package com.example.lojaapi.model;
-
-import com.fasterxml.jackson.annotation.JsonManagedReference;
+package com.example.loja.model;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

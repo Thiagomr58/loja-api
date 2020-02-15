@@ -1,14 +1,13 @@
-package com.example.lojaapi.service;
+package com.example.loja.service;
 
-import com.example.lojaapi.model.Pedido;
-import com.example.lojaapi.model.Produto;
-import com.example.lojaapi.repository.PedidoRepository;
+import com.example.loja.model.Pedido;
+import com.example.loja.model.Produto;
+import com.example.loja.repository.PedidoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
 import java.util.List;
-import java.util.Optional;
 
 /**
  * Created by Thiago Rodrigues on 14/02/2020

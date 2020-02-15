@@ -1,7 +1,7 @@
-package com.example.lojaapi.service;
+package com.example.loja.service;
 
-import com.example.lojaapi.model.Produto;
-import com.example.lojaapi.repository.ProdutoRepository;
+import com.example.loja.model.Produto;
+import com.example.loja.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

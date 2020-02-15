@@ -1,4 +1,4 @@
-package com.example.lojaapi.model;
+package com.example.loja.model;
 
 /**
  * Created by Thiago Rodrigues on 14/02/2020

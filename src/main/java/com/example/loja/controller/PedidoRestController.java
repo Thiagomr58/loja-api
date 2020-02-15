@@ -1,7 +1,7 @@
-package com.example.lojaapi.controller;
+package com.example.loja.controller;
 
-import com.example.lojaapi.model.Pedido;
-import com.example.lojaapi.service.PedidoService;
+import com.example.loja.model.Pedido;
+import com.example.loja.service.PedidoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
